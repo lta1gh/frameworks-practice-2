@@ -1,0 +1,7 @@
+help.txt
+/api/.venv/*
+/api/documents.json
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
